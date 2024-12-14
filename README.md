@@ -2,8 +2,8 @@
 Financial Transactions Analysis
 
 ## 1. Background and Overview
-##### i. Context  Goals
-##### ii. Goals
+### i. Context 
+### ii. Goals
 
 ## 2. Data Structure Overview
 
