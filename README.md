@@ -5,6 +5,7 @@
 ### ii. Goals
 
 ## 2. Data Structure Overview
+### Entity relationship Diagram:
 
 ## 3. Executive summary 
 
