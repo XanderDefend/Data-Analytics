@@ -1,5 +1,4 @@
-# Data-Analytics
-Financial Transactions Analysis
+# Financial Transactions Analysis
 
 ## 1. Background and Overview
 ### i. Context 
